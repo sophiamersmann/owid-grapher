@@ -1,6 +1,6 @@
 # owid-grapher
 
-Updated
+Updated 2
 
 [![Actions Status](https://github.com/owid/owid-grapher/workflows/Continuous%20Integration/badge.svg)](https://github.com/owid/owid-grapher/actions)
 [![Test coverage](https://owid.github.io/badges/coverage.svg)](https://owid.github.io/coverage/)
